@@ -6,7 +6,7 @@
 docker build . -t betchi/kong-plugin-bootstrap
 ```
 
-## Run
+## Build lua package
 
 ```
 docker run \
